@@ -2,6 +2,8 @@
 
 This repository mainly demonstrates the method to integrate Elasticsearch data into a Shiny dashboard. The programming language used is mainly R and the back-end connection is done by using Python. Meanwhile for the data visualization part, graphs are drawn with three different graphing libraries in R, namely: *ggplot2*, *plotly* and *wordcloud2*.
 
+For more high-level details, you are welcome to read my [**article in Medium**](https://medium.com/@andykwan12/build-shiny-dashboard-with-elasticsearch-1723a448016f).
+
 The purpose for the whole demonstration is to:
 
 1. Illustrates the utilization of data from Elasticsearch data ([**Amazon Elasticsearch Service**](https://aws.amazon.com/elasticsearch-service/))
